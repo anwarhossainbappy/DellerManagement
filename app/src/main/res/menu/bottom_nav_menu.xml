@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home_item"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"/>
+    <item
+        android:id="@+id/transaction"
+        android:title="@string/transaction_item"
+        android:enabled="true"
+        android:icon="@drawable/transaction"/>
+    <item
+        android:id="@+id/due"
+        android:title="@string/due_item"
+        android:enabled="true"
+        android:icon="@drawable/calculate"/>
+    <item
+        android:id="@+id/help"
+        android:title="@string/help_item"
+        android:enabled="true"
+        android:icon="@drawable/help"/>
+</menu>
